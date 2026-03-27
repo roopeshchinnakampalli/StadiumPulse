@@ -1,0 +1,15 @@
+
+> stadiumpulse@0.1.0 dev
+> next dev
+
+▲ Next.js 16.2.1 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.0.2:3000
+✓ Ready in 513ms
+
+○ Compiling / ...
+ GET / 200 in 5.8s (next.js: 5.3s, application-code: 483ms)
+ GET /register 200 in 664ms (next.js: 543ms, application-code: 121ms)
+ GET /dashboard 200 in 838ms (next.js: 693ms, application-code: 145ms)
+ GET /leaderboard 200 in 963ms (next.js: 823ms, application-code: 141ms)
+ GET /admin 200 in 1652ms (next.js: 1407ms, application-code: 245ms)
